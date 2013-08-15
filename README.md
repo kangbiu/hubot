@@ -177,3 +177,23 @@ Add the subdomain hubot should connect to. If you web URL looks like
 You may want to get comfortable with `heroku logs` and `heroku restart`
 if you're having issues.
 
+## Strikingly Production Commit Hubot
+
+#### Sorry Command
+
+    @hubot sorry hubot XXXXX
+
+#### Stop Reminder
+
+    @hubot shut up please!
+
+#### Start to Monitor Again
+
+    @hubot monitor prod commit please!
+
+#### Commit Text
+    
+    Ship it!
+
+
+
