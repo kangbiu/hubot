@@ -181,7 +181,7 @@ if you're having issues.
 
 #### Sorry Command
 
-    @hubot XXX hubot XXX
+    @hubot XXX sorry XXX
 
 #### Stop Reminder
 
@@ -190,6 +190,10 @@ if you're having issues.
 #### Start to Monitor Again
 
     @hubot XXX monitor XXX commit XXX
+
+#### Check Last Push Command
+
+    @hubot XXX last XXX push XXX
 
 #### Commit Text
     
