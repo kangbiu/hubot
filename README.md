@@ -181,15 +181,15 @@ if you're having issues.
 
 #### Sorry Command
 
-    @hubot sorry hubot XXXXX
+    @hubot XXX hubot XXX
 
 #### Stop Reminder
 
-    @hubot shut up please!
+    @hubot XXX shut XXX up XXX
 
 #### Start to Monitor Again
 
-    @hubot monitor prod commit please!
+    @hubot XXX monitor XXX commit XXX
 
 #### Commit Text
     
